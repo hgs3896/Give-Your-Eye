@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        
+    <string name="app_name">Give Your Eye</string>
+    <string name="description">눈 건강을 위해 눈 운동을 하세요.</string>
+    <string name="timeleft">최근 사용 시간</string>
+    <string name="create">사용시간 기록이 시작됩니다.</string>
+    <string name="destroy">기록이 종료 됩니다.</string>
+    <string name="already_stopped">이미 기록이 종료 되어 있습니다.</string>
+    <string name="delete_txt">기록 삭제</string>
+    <string name="graph_title">폰 사용량 그래프</string>
+
+</resources>

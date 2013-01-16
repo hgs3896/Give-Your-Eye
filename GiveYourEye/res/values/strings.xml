@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Give Your Eye</string>
+    <string name="description">Do some eye exercise to protect your eyes.</string>
+    <string name="timeleft">Latest Used Time</string>
+    <string name="create">Timer Service has been started</string>
+    <string name="destroy">Timer service has been stopped</string>
+    <string name="already_stopped">Timer service has been already stopped</string>
+    <string name="delete_txt">Delete Usage</string>
+    <string name="graph_title">Your Phone Usage Graph</string>
+
+</resources>
